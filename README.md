@@ -1,4 +1,4 @@
-# Arduino 3.6-Digital Input
+# Arduino 3.6-Toggle Switch
 ## In this assignment you will again use digital sensors as input devices.  In this example though, you will make a toggle switch.
 
 ---
