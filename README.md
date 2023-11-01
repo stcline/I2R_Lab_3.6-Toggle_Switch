@@ -22,7 +22,7 @@ If needed, review the Arduino Reference page on [`digitalRead()`](https://www.ar
     - 
 Use the video below as a reference.
 
-### Step Three: Debug and Submit
-
 Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.5_Digital_Input.ino and Commit it to the repository.  Submit a video of the working prototype on Canvas.
 
+
+![Lab 3.6 Prototype](http://img.youtube.com/vi/vi/VdB4GWeVkvY/0.jpg)](https://www.youtube.com/watch?v=vi/VdB4GWeVkvY "Lab 3.6 Prototype")
