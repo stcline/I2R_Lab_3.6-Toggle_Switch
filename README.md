@@ -19,13 +19,12 @@ If needed, review the Arduino Reference page on [`digitalRead()`](https://www.ar
 2. Modify the code so your sketch does the following:
     - The button switches on or off when the button is pressed and it stays on or off.  This is a true toggle switch.
     - The Serial Monitor displays a message every time the LED state changes so that it says "ON" or "OFF" to match the LED.
-    - 
+
 Use the video below as a reference.
 
-Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub. Name it 3.5_Digital_Input.ino and Commit it to the repository.  Submit a video of the working prototype on Canvas.
+Make sure your prototype behaves the same way as the one in the video. As in the previous assignment, make a new file here on GitHub containing your code.
 
-
-[![3.55_Video](http://img.youtube.com/vi/nPcxHFvlSNA/0.jpg)](https://www.youtube.com/watch?v=nPcxHFvlSNA "3.55-Analog Input Video")
+https://www.youtube.com/watch?v=VdB4GWeVkvY
 
 ### Step Three: Debug and Submit
 
